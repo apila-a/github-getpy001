@@ -1,0 +1,102 @@
+{
+  "groups": [
+    {
+      "name": "aliyun",
+      "type": "com.tanhua.sso.config.AliyunConfig",
+      "sourceType": "com.tanhua.sso.config.AliyunConfig"
+    },
+    {
+      "name": "aliyun.sms",
+      "type": "com.tanhua.sso.config.AliyunSMSConfig",
+      "sourceType": "com.tanhua.sso.config.AliyunSMSConfig"
+    },
+    {
+      "name": "tanhua.huanxin",
+      "type": "com.tanhua.sso.config.HuanXinConfig",
+      "sourceType": "com.tanhua.sso.config.HuanXinConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aliyun.access-key-id",
+      "type": "java.lang.String",
+      "sourceType": "com.tanhua.sso.config.AliyunConfig"
+    },
+    {
+      "name": "aliyun.access-key-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.tanhua.sso.config.AliyunConfig"
+    },
+    {
+      "name": "aliyun.bucket-name",
+      "type": "java.lang.String",
+      "sourceType": "com.tanhua.sso.config.AliyunConfig"
+    },
+    {
+      "name": "aliyun.endpoint",
+      "type": "java.lang.String",
+      "sourceType": "com.tanhua.sso.config.AliyunConfig"
+    },
+    {
+      "name": "aliyun.sms.access-key-id",
+      "type": "java.lang.String",
+      "sourceType": "com.tanhua.sso.config.AliyunSMSConfig"
+    },
+    {
+      "name": "aliyun.sms.access-key-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.tanhua.sso.config.AliyunSMSConfig"
+    },
+    {
+      "name": "aliyun.sms.domain",
+      "type": "java.lang.String",
+      "sourceType": "com.tanhua.sso.config.AliyunSMSConfig"
+    },
+    {
+      "name": "aliyun.sms.region-id",
+      "type": "java.lang.String",
+      "sourceType": "com.tanhua.sso.config.AliyunSMSConfig"
+    },
+    {
+      "name": "aliyun.sms.sign-name",
+      "type": "java.lang.String",
+      "sourceType": "com.tanhua.sso.config.AliyunSMSConfig"
+    },
+    {
+      "name": "aliyun.sms.template-code",
+      "type": "java.lang.String",
+      "sourceType": "com.tanhua.sso.config.AliyunSMSConfig"
+    },
+    {
+      "name": "aliyun.url-prefix",
+      "type": "java.lang.String",
+      "sourceType": "com.tanhua.sso.config.AliyunConfig"
+    },
+    {
+      "name": "tanhua.huanxin.app-name",
+      "type": "java.lang.String",
+      "sourceType": "com.tanhua.sso.config.HuanXinConfig"
+    },
+    {
+      "name": "tanhua.huanxin.client-id",
+      "type": "java.lang.String",
+      "sourceType": "com.tanhua.sso.config.HuanXinConfig"
+    },
+    {
+      "name": "tanhua.huanxin.client-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.tanhua.sso.config.HuanXinConfig"
+    },
+    {
+      "name": "tanhua.huanxin.org-name",
+      "type": "java.lang.String",
+      "sourceType": "com.tanhua.sso.config.HuanXinConfig"
+    },
+    {
+      "name": "tanhua.huanxin.url",
+      "type": "java.lang.String",
+      "sourceType": "com.tanhua.sso.config.HuanXinConfig"
+    }
+  ],
+  "hints": []
+}
